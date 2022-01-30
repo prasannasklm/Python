@@ -1,0 +1,25 @@
+#python 4th program
+print("here, we are going to introduce about input statement to read the input");
+name=input("enter your name:")
+print("hello",name)
+age=input("enter your age:")
+print("your age is:",age)
+print("here you need to enter two numbers to perform addition")
+a=input("enter a number:")
+b=input("enter b number:")
+# it gives the output as concatination because defaultly input type is in string so we need to convert the type
+print("before type conversion")
+print(a+b)
+# type conversion and add them
+print("after type conversion")
+print(int(a)+int(b))
+print(float(a)+float(b))
+print(float(a)+int(b))
+print("type conversion while reading the input")
+inp1=float(input("enter a number:"))
+inp2=float(input("enter b number:"))
+print("addition:",inp1+inp2)
+print("int type conversion while reading the input")
+a1=int(input("enter a number:"))
+a2=int(input("enter b number:"))
+print("addition:",a1+a2)

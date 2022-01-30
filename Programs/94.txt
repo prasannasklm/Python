@@ -1,0 +1,7 @@
+Composites can be very strong and stiff, yet very light in weight, so
+ratios of strength-to-weight and stiffness-to-weight are several times
+greater than steel or aluminum High specific strength andHigh specific stiffness Long fatigue lifeHigh creep resistanceLow coefficient of thermal expansionLow densityLow thermal conductivityBetter wear resistanceImproved corrosion resistanceBetter temperature dependent behavior
+A composite material can be defined as a combination of two or more
+materials that results in better properties than those of the individual
+components used alone.
+Composites consist of one or more discontinuous phases

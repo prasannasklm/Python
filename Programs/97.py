@@ -1,0 +1,10 @@
+#dictionaries
+dic={}
+#print(dic)
+dic["one"]=1
+dic["two"]=2
+dic["three"]=3
+dic["four"]=4
+print(dic)
+dic["five"]=dic["two"]+dic["three"]
+print(dic)
